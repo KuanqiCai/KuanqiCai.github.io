@@ -50,7 +50,7 @@ As salary costs in China increase, it is becoming expensive to recruit workers t
 <h3>2019, The Chinese University of Hong Kong, Hong Kong, China</h3>
 In international airports, it is common to see airport trolleys strewn haphazardly throughout the terminals and surrounding areas. A large amount of manpower has to be hired just to retrieve these trolleys and return them to distribution points. This project proposed an intelligent multi-robot system that can detect the distribution of unoccupied trolleys in different regions of the airport in real-time. The system consequently allocates robots using an optimized strategy to determine the most efficient method and optimal paths to collect the trolleys and bring them to distribution points. The robot was developed using core technologies such as precise localization, active obstacle avoidance, and intelligent motion planning. It completes the following tasks: 1) detecting the trolleys and determining their status, 2) navigating the robot to work safely and smoothly, 3) collecting the target trolley and stacking multiple trolleys together, and 4) cooperating and coordinating with the other robots to transport trolleys to the designated location. <br />
 
-<i><b>Project Number</b>: Hong Kong ITC ITSP Tier 2 grant # ITS/105/18FP.</i> </i> <u><a href="https://youtu.be/5Bde0WN8iQY">[<font color=DeepSkyBlue>Video</font>]</a> </u> 
+<i><b>Project Number</b>: Hong Kong ITC ITSP Tier 2 grant # ITS/105/18FP.</i> <u><a href="https://youtu.be/5Bde0WN8iQY">[<font color=DeepSkyBlue>Video</font>]</a> </u> 
 </div>
 
 ---
@@ -83,7 +83,7 @@ Diseases and pests are detrimental to crop yield. At present, the identification
 <h3>2016, Hainan University, China</h3>
 The technical level of rubber work is a crucial factor affecting rubber production. Laborers who have a low degree of skill harvest approximately 20–30 percent less rubber than those who are more experienced. Unskilled laborers can even damage rubber trees. For this reason, we put forward a rubber workers’ technical level evaluation method based on the cloud model so as to accurately evaluate technical skills. We also designed an intelligent device with the above method to provide real-time feedback on laborers’ skills; knowing where they have made errors will allow them to subsequently improve. Our results showed a 90 percent accuracy rate in evaluating the workers’ skills, and it provided satisfactory real-time performance benchmarks. Our instrument is beneficial for workers to improve their tapping level and increase their rubber production. <br />
 
-<i><b>Achievement</b>: 1.<b> Provincial First Prize</b>, ”Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition 2. <b>National Special Prize</b>, The Silk Road Robotics innovations competition. 
+<i><b>Achievement</b>: 1.<b> Provincial First Prize</b>, ”Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition 2. <b>National Special Prize</b>, The Silk Road Robotics innovations competition. </i>
 </div>
 
 ---
