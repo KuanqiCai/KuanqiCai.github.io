@@ -5,16 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kuanqi Cai's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kuanqi Cai"
 description              : &description "personal description"
-url                      : https://kuanqicai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://KuanqiCai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "KuanqiCai/KuanqiCai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,23 +71,23 @@ social:
   links: # An array of links to social media profiles
 
 
+
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Kuanqi Cai (蔡宽麒)"
+  avatar           : "kq_cai.png"
+  bio              : "Research Associate"
+  location         : "Munich, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=3Y9wVfMOtP4C&hl=en"
+  email            : "kayle.ckq@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KuanqiCai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kuanqi-cai-62b1801b3"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,10 +175,25 @@ kramdown:
 
 # Collections
 collections:
+  education:
+    output: true
+    permalink: /:collection/:path/
+  activity:
+    output: true
+    permalink: /:collection/:path/
+  HonorsAwardsScholarships:
+    output: true
+    permalink: /:collection/:path/
+  grant:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -219,10 +233,46 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _activity
+  - scope:
+      path: ""
+      type: activity
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _HonorsAwardsScholarships
+  - scope:
+      path: ""
+      type: HonorsAwardsScholarships
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _grant
+  - scope:
+      path: ""
+      type: grant
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
