@@ -1,22 +1,25 @@
 # main links links
 main:
+
+  - title: "Education"
+    url: /education/
+    
   - title: "Publications"
-    url: /publications/
+    url: /publications/  
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Professional Activities"
+    url: /activity/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Honors & Competitions & Scholarships"
+    url: /HonorsAwardsScholarships/
+  
+  #- title: "Grants"
+  #  url: /grant/
     
-  - title: "CV"
-    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "CV"
+  #  url: /cv/
+    
