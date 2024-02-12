@@ -49,10 +49,6 @@ permalink: /HonorsAwardsScholarships/
 
 <h2>Scholarships</h2>
 
-<!--* 2022, <b>UCL EPSRC DTP Research Studentship</b>, University College London (Only 18 international students were accepted) -->
-
-<!--* 2022, <b>Horizon Creating Our Lives in Data CDT Studentship Award</b>, University of Nottingham -->
-
 * 2021, <b>ETH robotics student fellowship</b>, (Only 9 students from around the world were accepted)
 
 * 2021, <b>“Aerospace and New Source Cup” Innovation Star (First Prize)</b>, HIT, 1/529
