@@ -11,7 +11,7 @@ permalink: /publications/
 <h2>Reactive User-Guided Path Planning for Visual-Servoing Adaptation </h2>
 <b>Kuanqi Cai</b>, Yuhe Gong, Riddhiman Laha, Lingyun Chen, Liding Zhang, Luis F.C. Figueredo, Sami Haddadin.  <br />
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submit) <br />
-<u><a href="https://ieeexplore.ieee.org/abstract/document/10184913">[PDF]</a> </u> <u><a href="https://youtu.be/X8rTFtFVXCc">[Video]</a> </u> <br />
+<b><u><span><span><span><span><span><a href="https://ieeexplore.ieee.org/abstract/document/10184913">[PDF]</a>  </u> <u><a href="https://youtu.be/X8rTFtFVXCc">[Video]</a> </u> <br />
 </div>
 
 
