@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div>
 <img align="Left" src='/images/TITS.png' width=300 height=150 />
-<h2>Sampling-based Path Planning in Highly Dynamic and Crowded Pedestrian Flow </h2>
+<h2>Reactive User-Guided Path Planning for Visual-Servoing Adaptation </h2>
 <b>Kuanqi Cai</b>, Yuhe Gong, Riddhiman Laha, Lingyun Chen, Liding Zhang, Luis F.C. Figueredo, Sami Haddadin.  <br />
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submit) <br />
 <u><a href="https://ieeexplore.ieee.org/abstract/document/10184913">[PDF]</a> </u> <u><a href="https://youtu.be/X8rTFtFVXCc">[Video]</a> </u> <br />
