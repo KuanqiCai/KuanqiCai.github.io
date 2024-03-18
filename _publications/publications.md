@@ -11,7 +11,7 @@ permalink: /publications/
 <h2>Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
 <b>Kuanqi Cai</b>, Riddhiman Laha, Yuhe Gong, Lingyun Chen, Liding Zhang, Luis F.C. Figueredo, Sami Haddadin.  <br />
 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Submit) <br />
-<u>[PDF]</a> </u> <u><a href="https://youtu.be/jlSAqC3nvDM">[Video]</a> </u> <br />
+<u>[PDF] </u> <u><a href="https://youtu.be/jlSAqC3nvDM">[Video]</a> </u> <br />
 </div>
 
 
