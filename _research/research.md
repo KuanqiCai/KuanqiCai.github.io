@@ -15,7 +15,7 @@ Our research introduces an innovative approach: visual servoing with online adap
 The main goal of our project is to develop an adaptive system for Learning by Demonstration (LbD) that is both user-friendly and capable of real-time, reactive planning based on user demonstrations. Our approach extends traditional LbD by incorporating real-time visual servoing, overcoming its limitations in adaptability and responsiveness.
 By enabling robots to learn from multiple demonstrations and adapt to changes in their environment, we aim to create a system that can handle a wide range of tasks, from moving cups to grasping objects on the move. This system will be equipped to deal with the unpredictability of real-world scenarios, including object movement and human intervention, making robots more flexible and accessible for everyday applications.  <br />
 
-<i><b>Project</b>: Maintain mobility and independence with Geriatronics robotic assistance systems. </i> <u><a href="https://youtu.be/jUM2ujRKNfM">[<font color=DeepSkyBlue>Video</font>]</a> </u>
+<i><b>Project</b>: Maintain mobility and independence with Geriatronics robotic assistance systems. </i> <u><a href="https://youtu.be/JVu3Fj2Bkkg">[<font color=DeepSkyBlue>Video</font>]</a> </u>
 
 </div>
 
