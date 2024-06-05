@@ -21,8 +21,6 @@ permalink: /activity/
 * Advances in Mechanical Engineering (SCI, IF=1.024)
 
 * Scientific Reports (SCI, IF=4.996)
-  
-
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
