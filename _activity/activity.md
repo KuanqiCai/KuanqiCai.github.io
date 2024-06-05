@@ -9,12 +9,20 @@ permalink: /activity/
 <h2>Reviewer</h2>
 
 * IEEE Transactions on Industrial Informatics (SCI, IF=7.377)
+  
+* IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
+
+* IEEE Robotics and Automation Letters (SCI, IF=5.2)
+
+* IEEE Transactions on Instrumentation and Measurement (SCI, IF=5.6)
+
+* Biomimetic Intelligence and Robotics
 
 * Advances in Mechanical Engineering (SCI, IF=1.024)
 
 * Scientific Reports (SCI, IF=4.996)
   
-* IEEE Transactions on Automation Science and Engineering (SCI, IF=5.6)
+
 
 * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
