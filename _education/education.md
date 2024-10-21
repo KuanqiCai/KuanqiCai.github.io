@@ -12,7 +12,7 @@ permalink: /education/
 * <b>Research Fellow </b>
 * Member of the Human-Robot Interfaces and Interaction (Supervisor: Prof. Arash Ajoudani)
 
-## <i>Technical University of Munich</i>, Jun. 2023 -  Sep. 2024##
+## <i>Technical University of Munich</i>, Jun. 2023 -  Sep. 2024 ##
 * <b>Research Associate </b>
 * Member of the Munich Institute of Robotics and Machine Intelligence (MIRMI) (Supervisor: Prof. Sami Haddadin, Mentor: Prof. Luis Figueredo)
 
