@@ -8,10 +8,13 @@ permalink: /education/
 
 <hr color="000000"/>
 
-## <i>Technical University of Munich</i>, Jun. 2023 - Present ##
+## <i>Italian Institute of Technology</i>, Oct. 2024 - Present ##
+* <b>Research Fellow </b>
+* Member of the Human-Robot Interfaces and Interaction (Supervisor: Prof. Arash Ajoudani)
+
+## <i>Technical University of Munich</i>, Jun. 2023 -  Sep. 2024##
 * <b>Research Associate </b>
 * Member of the Munich Institute of Robotics and Machine Intelligence (MIRMI) (Supervisor: Prof. Sami Haddadin, Mentor: Prof. Luis Figueredo)
-<!--* <b>Early Stage Researcher</b> in the Marie Sklodowska-Curie Actions Doctoral Training Network.-->
 
 ## <i>The Chinese University of Hong Kong</i> ## 
 * <b>Research Assistant</b> in the Shenzhen Research Institute (SZRI),  &emsp; <b><i>Jul. 2021 - Feb. 2023</i></b>
