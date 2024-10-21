@@ -10,7 +10,7 @@ permalink: /education/
 
 ## <i>Italian Institute of Technology</i>, Oct. 2024 - Present ##
 * <b>Research Fellow </b>
-* Member of the Human-Robot Interfaces and Interaction (Supervisor: Prof. Arash Ajoudani)
+* Member of the Human-Robot Interfaces and Interaction Lab (Supervisor: Prof. Arash Ajoudani)
 
 ## <i>Technical University of Munich</i>, Jun. 2023 -  Sep. 2024 ##
 * <b>Research Associate </b>
