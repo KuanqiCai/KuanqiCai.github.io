@@ -7,20 +7,11 @@ permalink: /publications/
 ---
 
 <div>
-    <img align="left" src="/images/Tmech.png" width="300" height="150" alt="Tmech logo" />
-    <h2>From Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
-    <p><strong>Kuanqi Cai*</strong>, Liding Zhang*, Xinwen Su, Kejia Chen, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani†, Luis F.C. Figueredo†</p>
-    Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
-    <u>[PDF]</u> <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM" target="_blank">[Video]</a></u>
-</div>
-
-
-<div>
 <img align="Left" src='/images/Tmech.png' width=300 height=150 />
-<h2>Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
-<b>Kuanqi Cai</b>, Riddhiman Laha, Yuhe Gong, Lingyun Chen, Liding Zhang, Luis F.C. Figueredo, Sami Haddadin.  <br />
-2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <br />
-<u>[PDF] </u> <u><a href="https://youtu.be/_nBD5tVjnCk">[Video]</a> </u> <br />
+<h2>Just-in-Time Informed Trees: Optimized Motion Planning for High-dimensional Robotic Systems</h2>
+<b>Kuanqi Cai*</b>, Liding Zhang*, Xinwen Su, Kejia Chen, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani†, Luis F.C. Figueredo†.  <br />
+Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
+<u>[PDF] </u> <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM">[Video]</a> </u> <br />
 </div>
 
 
