@@ -16,7 +16,7 @@ Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
 
 
 <div>
-<img align="Left" src='/images/Tmech.png' width=300 height=150 />
+<img align="Left" src='/images/RPF.png' width=300 height=150 />
 <h2>RPF-Search: Heuristic-Guided Search with Uncertain Motion Cues for Robot Person Following in Unknown Dynamic Environments</h2>
 Hanjing Ye*, <b>Kuanqi Cai*</b>, Jieting Zhao, Yu Zhang, Arash Ajoudani†, Hong Zhang†.  <br />
 </div>
