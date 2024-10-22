@@ -10,11 +10,8 @@ permalink: /publications/
     <img align="left" src="/images/Tmech.png" width="300" height="150" alt="Tmech logo" />
     <h2>From Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
     <p><strong>Kuanqi Cai*</strong>, Liding Zhang*, Xinwen Su, Kejia Chen, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani†, Luis F.C. Figueredo†</p>
-    <p>Preparing for submission to <i>IEEE/ASME Transactions on Mechatronics</i></p>
-    <p>
-        <u>[PDF]</u> | 
-        <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM" target="_blank">[Video]</a></u>
-    </p>
+    Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
+    <u>[PDF]</u> <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM" target="_blank">[Video]</a></u>
 </div>
 
 
