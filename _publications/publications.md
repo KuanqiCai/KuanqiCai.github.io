@@ -11,7 +11,7 @@ permalink: /publications/
 <h2>Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
 <b>Kuanqi Cai*</b>, Liding Zhang*, Xinwen Su, Kejia Chen, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani†,
 Luis F.C. Figueredo†.  <br />
-2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <br />
+Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
 <u>[PDF] </u> <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM">[Video]</a> </u> <br />
 </div>
 
