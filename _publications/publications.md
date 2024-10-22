@@ -16,6 +16,13 @@ Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
 
 
 <div>
+<img align="Left" src='/images/Tmech.png' width=300 height=150 />
+<h2>RPF-Search: Heuristic-Guided Search with Uncertain Motion Cues for Robot Person Following in Unknown Dynamic Environments</h2>
+Hanjing Ye*, <b>Kuanqi Cai*</b>, Jieting Zhao, Yu Zhang, Arash Ajoudani†, Hong Zhang†.  <br />
+</div>
+
+
+<div>
 <img align="Left" src='/images/user-guidance.png' width=300 height=150 />
 <h2>Demonstration to Adaptation: A User-Guided Framework for Sequential and Real-Time Planning</h2>
 <b>Kuanqi Cai</b>, Riddhiman Laha, Yuhe Gong, Lingyun Chen, Liding Zhang, Luis F.C. Figueredo, Sami Haddadin.  <br />
