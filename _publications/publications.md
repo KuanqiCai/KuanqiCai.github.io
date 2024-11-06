@@ -6,13 +6,13 @@ author_profile: true
 permalink: /publications/
 ---
 
-<div>
+<!--<div>
 <img align="Left" src='/images/Tmech.png' width=300 height=150 />
 <h2>Just-in-Time Informed Trees: Optimized Motion Planning for High-dimensional Robotic Systems</h2>
 <b>Kuanqi Cai*</b>, Liding Zhang*, Xinwen Su, Kejia Chen, Chaoqun Wang, Sami Haddadin, Alois Knoll, Arash Ajoudani†, Luis F.C. Figueredo†.  <br />
 Preparing for submission to IEEE/ASME Transactions on Mechatronics <br />
 <u>[PDF] </u> <u><a href="https://www.youtube.com/watch?v=zlR0OFWSlPM">[Video]</a> </u> <br />
-</div>
+</div> -->
 
 
 <div>
