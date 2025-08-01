@@ -8,10 +8,14 @@ permalink: /education/
 
 <hr color="000000"/>
 
-## <i>IIT & EPFL</i>, Oct. 2024 - Present ##
-* <b>Ph.D. Student Fellow </b>
+## <i>IIT & EPFL</i>, Aug. 2025 - Present ##
+* <b>Ph.D. Student </b>
 * Member of the Human-Robot Interfaces and Interaction Lab (Supervisor: Dr. Arash Ajoudani)
 * Member of the Learning Algorithms and Systems Laboratory Lab (Supervisor: Prof. Aude Billard)
+
+## <i>Italian Institute of Technology </i>, Oct. 2024 - Jul. 2025 ##
+* <b>Research Fellow </b>
+* Member of the Human-Robot Interfaces and Interaction Lab (Supervisor: Dr. Arash Ajoudani)
 
 ## <i>Technical University of Munich</i>, Jun. 2023 -  Sep. 2024 ##
 * <b>Research Associate </b>
